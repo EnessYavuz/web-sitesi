@@ -1,0 +1,22 @@
+.image img{
+    width: 23rem;
+     height: 28rem;
+     overflow: hidden;
+     object-fit: cover;
+}
+
+
+#firstCard{
+    background-image:url("../assets/img/123.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 23rem 28rem;
+    overflow: hidden;
+
+
+
+}
+
+#firstCard:hover{
+    transform: scale(1.02);
+    transition: all 0.3s;
+}

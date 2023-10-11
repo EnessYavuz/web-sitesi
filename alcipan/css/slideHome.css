@@ -1,0 +1,43 @@
+.Anasayfa {
+ 
+  
+}
+.slideLogo{
+    object-fit: fill;
+    background-color: #171717;
+    background-size: contain;
+    background-position: center ; 
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/logo/logo1080bigd.jpg');
+  }
+  .slide1{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/1.jpg');
+  }
+  .slide2{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/2.jpg');
+  }
+  .slide3{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/3.jpg');
+  }
+  .slide4{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/4.jpg');
+  }
+  .slide5{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/5.jpg');
+  }
+  .slide6{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/6.jpg');
+  }
+  .slide7{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/7.jpg');
+  }
+  .slide8{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/8.jpg');
+  }
+  .slide9{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/9.jpg');
+  }
+  .slide10{
+    background-image: linear-gradient(rgba(44, 62, 79, .6), rgba(44, 62, 79, .7)), url('../assets/img/slide/10.jpg');
+  }
+  
